@@ -1,4 +1,3 @@
-# WebcamCapture
 
 ```markdown
 # Webcam Image Capture
@@ -11,7 +10,6 @@ This Python script captures a frame from the webcam using OpenCV and saves it as
 - OpenCV
 
 ## Usage
-
 1. Install the required dependencies:
 
    ```bash
@@ -28,3 +26,5 @@ This Python script captures a frame from the webcam using OpenCV and saves it as
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
+
+Feel free to customize the README file further based on the specifics of your project.
